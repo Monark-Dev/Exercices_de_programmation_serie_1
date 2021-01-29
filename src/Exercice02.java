@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice2 {
+public class Exercice02 {
     public static void main(String[] args) throws Exception {
 
         // constante

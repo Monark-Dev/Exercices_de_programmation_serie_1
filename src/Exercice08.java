@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice8 {
+public class Exercice08 {
     public static void main(String[] args) {
         int noteEtudiant = Integer.parseInt(JOptionPane.showInputDialog(null, "Note de l'étudiant sur 20 ?"));
         int noteEtudiantSur100 = noteEtudiant * 5;

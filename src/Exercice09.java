@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice9 {
+public class Exercice09 {
     public static void main(String[] args) {
         double prixUnitaire = Double.parseDouble(JOptionPane.showInputDialog(null, "Prix unitaire?"))  ;
         int quantiteAchetee = Integer.parseInt(JOptionPane.showInputDialog(null, "Quantité achetée?"));

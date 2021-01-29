@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice5 {
+public class Exercice05 {
     public static void main(String[] args) {
         final double TAUX_DE_TAXE = 15.56;
         final double TARIF_PAR_JOUR = 0.50;

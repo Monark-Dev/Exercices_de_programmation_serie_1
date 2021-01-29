@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice1 {
+public class Exercice01 {
     public static void main(String[] args) throws Exception {
         // données
         final int HauteurRezDeChaussee = 6;

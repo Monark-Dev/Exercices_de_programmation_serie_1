@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice6 {
+public class Exercice06 {
     public static void main(String[] args) {
         int distanceEnKm = Integer.parseInt(JOptionPane.showInputDialog("Entrez la distance en KM:"));
         int kmParLitre = Integer.parseInt(JOptionPane.showInputDialog("Entrez le nombre de Km/litre:"));

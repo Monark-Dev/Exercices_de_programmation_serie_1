@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercice4 {
+public class Exercice04 {
     public static void main(String[] args) {
         int chiffre1;
         int chiffre2;
